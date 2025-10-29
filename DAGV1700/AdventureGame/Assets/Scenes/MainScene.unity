@@ -127,9 +127,33 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 438476408393020323, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1675281205}
+    - target: {fileID: 438476408393020323, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
+      objectReference: {fileID: 0}
+    - target: {fileID: 492309170404532589, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1675281205}
+    - target: {fileID: 492309170404532589, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
+      objectReference: {fileID: 0}
     - target: {fileID: 2470671483240903839, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
       propertyPath: m_Name
       value: SpikeFloor (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3201821658972764356, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1675281205}
+    - target: {fileID: 3201821658972764356, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
       objectReference: {fileID: 0}
     - target: {fileID: 6016495115773254860, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
       propertyPath: m_LocalPosition.x
@@ -170,6 +194,22 @@ PrefabInstance:
     - target: {fileID: 6016495115773254860, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7588918934773885962, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1675281205}
+    - target: {fileID: 7588918934773885962, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
+      objectReference: {fileID: 0}
+    - target: {fileID: 8343480443188604516, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1675281205}
+    - target: {fileID: 8343480443188604516, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -612,9 +652,33 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 438476408393020323, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1675281205}
+    - target: {fileID: 438476408393020323, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
+      objectReference: {fileID: 0}
+    - target: {fileID: 492309170404532589, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1675281205}
+    - target: {fileID: 492309170404532589, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
+      objectReference: {fileID: 0}
     - target: {fileID: 2470671483240903839, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
       propertyPath: m_Name
       value: SpikeFloor (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3201821658972764356, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1675281205}
+    - target: {fileID: 3201821658972764356, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
       objectReference: {fileID: 0}
     - target: {fileID: 6016495115773254860, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
       propertyPath: m_LocalPosition.x
@@ -656,6 +720,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7588918934773885962, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1675281205}
+    - target: {fileID: 7588918934773885962, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
+      objectReference: {fileID: 0}
+    - target: {fileID: 8343480443188604516, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1675281205}
+    - target: {fileID: 8343480443188604516, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -696,9 +776,33 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 438476408393020323, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1675281205}
+    - target: {fileID: 438476408393020323, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
+      objectReference: {fileID: 0}
+    - target: {fileID: 492309170404532589, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1675281205}
+    - target: {fileID: 492309170404532589, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
+      objectReference: {fileID: 0}
     - target: {fileID: 2470671483240903839, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
       propertyPath: m_Name
       value: SpikeFloor (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3201821658972764356, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1675281205}
+    - target: {fileID: 3201821658972764356, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
       objectReference: {fileID: 0}
     - target: {fileID: 6016495115773254860, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
       propertyPath: m_LocalPosition.x
@@ -739,6 +843,22 @@ PrefabInstance:
     - target: {fileID: 6016495115773254860, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7588918934773885962, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1675281205}
+    - target: {fileID: 7588918934773885962, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
+      objectReference: {fileID: 0}
+    - target: {fileID: 8343480443188604516, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1675281205}
+    - target: {fileID: 8343480443188604516, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
@@ -1535,127 +1655,22 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3cd9cc0a37055ab418d6ad449fb7f0ad, type: 3}
---- !u!1 &1675281201
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1675281202}
-  - component: {fileID: 1675281204}
-  - component: {fileID: 1675281203}
-  - component: {fileID: 1675281205}
-  - component: {fileID: 1675281206}
-  m_Layer: 5
-  m_Name: HealthBar
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1675281202
+--- !u!224 &1675281202 stripped
 RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 3831180851650777035, guid: 1f6be7a5019325940a323ea585ce92e2, type: 3}
+  m_PrefabInstance: {fileID: 1129160869135800664}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1675281201}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 280554302}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 1, y: 1}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -112, y: -29}
-  m_SizeDelta: {x: 150, y: 25}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1675281203
+--- !u!114 &1675281205 stripped
 MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 2886319797107629214, guid: 1f6be7a5019325940a323ea585ce92e2, type: 3}
+  m_PrefabInstance: {fileID: 1129160869135800664}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1675281201}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 0, b: 0, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 7482667652216324306, guid: 4a81becd7555541e5b74a75c127ea4fd, type: 3}
-  m_Type: 3
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 0
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
---- !u!222 &1675281204
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1675281201}
-  m_CullTransparentMesh: 1
---- !u!114 &1675281205
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1675281201}
+  m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ddf1b3746124a41cd90cb0e79f73be2a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dataObj: {fileID: 11400000, guid: 9a6cf5ad4cfdaa7419791f2e5ea9926a, type: 2}
---- !u!114 &1675281206
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1675281201}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9ecbdb87469da402c9810f8ecb900368, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  startHoldTime: 0.1
-  awakeEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  startEvent:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 11400000, guid: 9a6cf5ad4cfdaa7419791f2e5ea9926a, type: 2}
-        m_TargetAssemblyTypeName: SimpleFloatData, Assembly-CSharp
-        m_MethodName: SetValue
-        m_Mode: 4
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 1
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
 --- !u!1001 &1738688479
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1721,9 +1736,33 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 438476408393020323, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1675281205}
+    - target: {fileID: 438476408393020323, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
+      objectReference: {fileID: 0}
+    - target: {fileID: 492309170404532589, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1675281205}
+    - target: {fileID: 492309170404532589, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
+      objectReference: {fileID: 0}
     - target: {fileID: 2470671483240903839, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
       propertyPath: m_Name
       value: SpikeFloor (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3201821658972764356, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1675281205}
+    - target: {fileID: 3201821658972764356, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
       objectReference: {fileID: 0}
     - target: {fileID: 6016495115773254860, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1764,6 +1803,22 @@ PrefabInstance:
     - target: {fileID: 6016495115773254860, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7588918934773885962, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1675281205}
+    - target: {fileID: 7588918934773885962, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
+      objectReference: {fileID: 0}
+    - target: {fileID: 8343480443188604516, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1675281205}
+    - target: {fileID: 8343480443188604516, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2020,6 +2075,103 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 785992443bf4e904d87eac28a1ebdc98, type: 3}
+--- !u!1001 &1129160869135800664
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 280554302}
+    m_Modifications:
+    - target: {fileID: 3831180851650777035, guid: 1f6be7a5019325940a323ea585ce92e2, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3831180851650777035, guid: 1f6be7a5019325940a323ea585ce92e2, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3831180851650777035, guid: 1f6be7a5019325940a323ea585ce92e2, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3831180851650777035, guid: 1f6be7a5019325940a323ea585ce92e2, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3831180851650777035, guid: 1f6be7a5019325940a323ea585ce92e2, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3831180851650777035, guid: 1f6be7a5019325940a323ea585ce92e2, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3831180851650777035, guid: 1f6be7a5019325940a323ea585ce92e2, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 150
+      objectReference: {fileID: 0}
+    - target: {fileID: 3831180851650777035, guid: 1f6be7a5019325940a323ea585ce92e2, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 3831180851650777035, guid: 1f6be7a5019325940a323ea585ce92e2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3831180851650777035, guid: 1f6be7a5019325940a323ea585ce92e2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3831180851650777035, guid: 1f6be7a5019325940a323ea585ce92e2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3831180851650777035, guid: 1f6be7a5019325940a323ea585ce92e2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3831180851650777035, guid: 1f6be7a5019325940a323ea585ce92e2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3831180851650777035, guid: 1f6be7a5019325940a323ea585ce92e2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3831180851650777035, guid: 1f6be7a5019325940a323ea585ce92e2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3831180851650777035, guid: 1f6be7a5019325940a323ea585ce92e2, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -112
+      objectReference: {fileID: 0}
+    - target: {fileID: 3831180851650777035, guid: 1f6be7a5019325940a323ea585ce92e2, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -29
+      objectReference: {fileID: 0}
+    - target: {fileID: 3831180851650777035, guid: 1f6be7a5019325940a323ea585ce92e2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3831180851650777035, guid: 1f6be7a5019325940a323ea585ce92e2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3831180851650777035, guid: 1f6be7a5019325940a323ea585ce92e2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4549845764611572414, guid: 1f6be7a5019325940a323ea585ce92e2, type: 3}
+      propertyPath: m_Name
+      value: HealthBar
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1f6be7a5019325940a323ea585ce92e2, type: 3}
 --- !u!1001 &1693059091405905989
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2035,6 +2187,22 @@ PrefabInstance:
     - target: {fileID: 130715054406368325, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
       propertyPath: m_Center.y
       value: -0.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 438476408393020323, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1675281205}
+    - target: {fileID: 438476408393020323, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
+      objectReference: {fileID: 0}
+    - target: {fileID: 492309170404532589, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1675281205}
+    - target: {fileID: 492309170404532589, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
       objectReference: {fileID: 0}
     - target: {fileID: 1019701752349388521, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
       propertyPath: m_Size.y
@@ -2055,6 +2223,14 @@ PrefabInstance:
     - target: {fileID: 2470671483240903839, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
       propertyPath: m_Name
       value: SpikeFloor (0)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3201821658972764356, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1675281205}
+    - target: {fileID: 3201821658972764356, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
       objectReference: {fileID: 0}
     - target: {fileID: 3407705497872856988, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
       propertyPath: m_Size.y
@@ -2115,6 +2291,22 @@ PrefabInstance:
     - target: {fileID: 6016495115773254860, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7588918934773885962, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1675281205}
+    - target: {fileID: 7588918934773885962, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
+      objectReference: {fileID: 0}
+    - target: {fileID: 8343480443188604516, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 1675281205}
+    - target: {fileID: 8343480443188604516, guid: 494d7791e046199499c644bc66dd47ed, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: UpdateWithFloatData
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
