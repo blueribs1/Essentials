@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 2946513901130499990}
   - component: {fileID: 6503849045833881585}
   - component: {fileID: 3570699076811706838}
-  - component: {fileID: 6804787925087216466}
   m_Layer: 6
   m_Name: Spikes (0)
   m_TagString: Untagged
@@ -111,66 +110,6 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.15, y: 0.08, z: 0.2}
   m_Center: {x: -0.005, y: -0.03, z: 0}
---- !u!114 &6804787925087216466
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2913581773106462659}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3a28a400391344b9c88e28b4820b5ed7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  startHoldTime: 0.1
-  awakeEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  startEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  triggerEnterEvent:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 11400000, guid: 9a6cf5ad4cfdaa7419791f2e5ea9926a, type: 2}
-        m_TargetAssemblyTypeName: SimpleFloatData, Assembly-CSharp
-        m_MethodName: UpdateValue
-        m_Mode: 4
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: -0.1
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 2886319797107629214, guid: 1f6be7a5019325940a323ea585ce92e2, type: 3}
-        m_TargetAssemblyTypeName: SimpleImageBehaviour, Assembly-CSharp
-        m_MethodName: UpdateWithFloatData
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: -0.1
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-  triggerEnterRepeatEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  triggerEnterEndEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  triggerExitEvent:
-    m_PersistentCalls:
-      m_Calls: []
-  triggerHoldTime: 0.01
-  repeatHoldTime: 0.01
-  exitHoldTime: 0.01
-  canRepeat: 0
-  repeatTimes: 10
 --- !u!1 &9012373029608933631
 GameObject:
   m_ObjectHideFlags: 0
@@ -198,7 +137,7 @@ Transform:
   m_GameObject: {fileID: 9012373029608933631}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.031875, z: 0}
+  m_LocalPosition: {x: 0, y: 0.0491, z: 0}
   m_LocalScale: {x: 1, y: 0.8125, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -217,7 +156,7 @@ BoxCollider:
     m_Bits: 0
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 64
   m_LayerOverridePriority: 0
   m_IsTrigger: 1
   m_ProvidesContacts: 0
