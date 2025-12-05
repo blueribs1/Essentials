@@ -1122,7 +1122,7 @@ GameObject:
   m_Component:
   - component: {fileID: 737346286}
   - component: {fileID: 737346285}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: boundary (0)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1301,7 +1301,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a28a400391344b9c88e28b4820b5ed7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startHoldTime: 100
+  startHoldTime: 0.01
   awakeEvent:
     m_PersistentCalls:
       m_Calls:
@@ -2164,7 +2164,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1614644963}
   - component: {fileID: 1614644962}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: boundary (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2190,8 +2190,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 1, y: 45.98498, z: 1}
-  m_Center: {x: -9.2263924e-14, y: 22.492493, z: 0}
+  m_Size: {x: 1, y: 44.0819, z: 1}
+  m_Center: {x: -7.874173e-14, y: 21.540953, z: 0}
 --- !u!4 &1614644963
 Transform:
   m_ObjectHideFlags: 0
@@ -2201,7 +2201,7 @@ Transform:
   m_GameObject: {fileID: 1614644961}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 19.56, y: 8.85, z: 0}
+  m_LocalPosition: {x: 20.31, y: 8.85, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2398,7 +2398,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1640137118}
   - component: {fileID: 1640137117}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: boundary (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
